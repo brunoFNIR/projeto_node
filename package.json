@@ -1,0 +1,19 @@
+{
+  "name": "projeto_node",
+  "version": "1.0.0",
+  "description": "Aula5 -Tpa Essa sim é pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoFNIR/projeto_node.git"
+  },
+  "author": "Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoFNIR/projeto_node/issues"
+  },
+  "homepage": "https://github.com/brunoFNIR/projeto_node#readme"
+}
